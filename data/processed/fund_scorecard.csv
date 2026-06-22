@@ -1,0 +1,41 @@
+amfi_code,scheme_name,return_3yr_pct,sharpe_ratio,alpha,expense_ratio_pct,max_drawdown_pct,return_rank,sharpe_rank,alpha_rank,expense_rank,drawdown_rank,composite_score
+119599,SBI Small Cap Fund - Direct Plan - Growth,23.14,0.93,1.13,0.72,-24.78,0.975,0.5375,0.4625,0.8625,0.725,72.1
+120843,Kotak Flexicap Fund - Regular - Growth,15.65,0.98,1.85,1.45,-19.5,0.75,0.725,0.9375,0.44999999999999996,0.475,70.9
+120842,Kotak Emerging Equity Fund - Regular - Growth,18.23,0.96,1.91,1.56,-21.92,0.85,0.65,0.975,0.17500000000000004,0.6,69.9
+101207,ABSL Small Cap Fund - Regular - Growth,22.38,0.9,1.84,1.53,-23.61,0.95,0.4125,0.9,0.2875,0.65,67.6
+119598,SBI Small Cap Fund - Regular Plan - Growth,23.39,0.94,1.23,1.43,-13.35,1.0,0.575,0.525,0.475,0.17500000000000004,63.7
+148567,Mirae Asset Large Cap Fund - Regular - Growth,14.81,1.06,1.62,1.46,-17.07,0.6,0.8375,0.725,0.42500000000000004,0.35,63.3
+100025,HDFC Short Term Debt Fund - Regular - Growth,7.37,1.84,1.98,0.56,-6.01,0.125,0.925,1.0,0.95,0.125,62.4
+120507,ICICI Pru Liquid Fund - Regular - Growth,7.68,7.68,1.85,0.74,-2.62,0.15,1.0,0.9375,0.825,0.050000000000000044,61.1
+120505,ICICI Pru Midcap Fund - Regular - Growth,18.08,0.95,0.89,1.36,-21.84,0.825,0.6,0.2875,0.625,0.55,60.4
+120504,ICICI Pru Bluechip Fund - Direct - Growth,14.41,1.03,0.88,0.8,-26.59,0.525,0.8,0.25,0.7,0.775,59.0
+148568,Mirae Asset Emerging Bluechip Fund - Regular - Growth,14.56,0.91,1.7,1.52,-33.15,0.55,0.4625,0.7625,0.3375,0.95,57.9
+125497,HDFC Top 100 Fund - Direct Plan - Growth,13.38,0.96,1.13,0.92,-33.5,0.425,0.65,0.4625,0.65,0.975,57.8
+120844,Kotak Liquid Fund - Regular - Growth,6.18,6.18,1.52,0.6,-3.81,0.1,0.975,0.675,0.925,0.09999999999999998,55.8
+102887,UTI Flexi Cap Fund - Regular - Growth,15.34,0.96,1.79,1.64,-12.14,0.7,0.65,0.825,0.012499999999999956,0.15000000000000002,55.4
+118635,Nippon India ETF Nifty 50 BeES,11.77,0.91,1.8,0.89,-26.75,0.225,0.4625,0.85,0.675,0.8,53.4
+118633,Nippon India Large Cap Fund - Direct - Growth,12.33,0.88,1.7,0.72,-18.14,0.35,0.3625,0.7625,0.8625,0.44999999999999996,52.3
+119094,Axis Midcap Fund - Regular - Growth,15.18,0.8,1.42,1.38,-32.38,0.65,0.0625,0.625,0.575,0.925,51.4
+149323,DSP Midcap Fund - Regular - Growth,17.16,0.9,1.02,1.61,-26.99,0.8,0.4125,0.4,0.050000000000000044,0.825,51.3
+149322,DSP Top 100 Equity Fund - Regular - Growth,12.82,0.92,1.82,1.54,-21.7,0.4,0.5,0.875,0.23750000000000004,0.5125,50.7
+119120,SBI Magnum Gilt Fund - Regular Plan - Growth,6.07,1.52,1.6,0.77,-2.3,0.075,0.9,0.7,0.775,0.025000000000000022,50.6
+120506,ICICI Pru Value Discovery Fund - Regular - Growth,14.76,0.98,0.55,1.41,-21.89,0.575,0.725,0.075,0.525,0.575,50.5
+100016,HDFC Top 100 Fund - Regular Plan - Growth,14.84,1.06,0.78,1.55,-17.41,0.625,0.8375,0.15,0.19999999999999996,0.4,49.7
+100033,HDFC Mid-Cap Opportunities Fund - Regular - Growth,16.58,0.87,0.95,1.38,-13.67,0.775,0.3,0.375,0.575,0.22499999999999998,49.1
+125498,HDFC Mid-Cap Opportunities Fund - Direct - Growth,15.29,0.8,0.9,0.78,-32.22,0.675,0.0625,0.325,0.75,0.9,48.6
+101206,ABSL Frontline Equity Fund - Regular - Growth,13.78,0.98,1.34,1.6,-15.07,0.475,0.725,0.575,0.08750000000000002,0.275,47.9
+118632,Nippon India Large Cap Fund - Regular - Growth,14.0,1.0,0.86,1.51,-16.07,0.5,0.775,0.2,0.38749999999999996,0.30000000000000004,47.2
+118634,Nippon India Small Cap Fund - Regular - Growth,20.15,0.81,0.8,1.53,-30.87,0.9,0.1375,0.175,0.2875,0.875,47.0
+101208,ABSL Liquid Fund - Regular - Growth,5.14,5.14,1.18,0.79,-3.66,0.025,0.95,0.5,0.725,0.07499999999999996,46.1
+119093,Axis Bluechip Fund - Direct - Growth,12.14,0.87,1.43,0.75,-17.4,0.3,0.3,0.65,0.8,0.375,45.2
+119552,SBI Bluechip Fund - Direct Plan - Growth,11.3,0.81,1.78,0.66,-24.43,0.175,0.1375,0.8,0.9,0.7,45.2
+119095,Axis Small Cap Fund - Regular - Growth,20.98,0.84,0.51,1.38,-14.45,0.925,0.225,0.025,0.575,0.25,45.0
+118636,Nippon India Gilt Securities Fund - Regular - Growth,5.31,1.33,0.89,0.55,-2.23,0.05,0.875,0.2875,0.975,0.0,43.8
+102886,UTI Mid Cap Fund - Regular - Growth,15.61,0.82,1.12,1.51,-13.43,0.725,0.1875,0.425,0.38749999999999996,0.19999999999999996,42.8
+149324,DSP Small Cap Fund - Regular - Growth,20.08,0.8,0.69,1.52,-17.01,0.875,0.0625,0.125,0.3375,0.32499999999999996,38.6
+102885,UTI Nifty 50 Index Fund - Regular - Growth,12.1,0.93,0.93,1.57,-24.42,0.275,0.5375,0.35,0.15000000000000002,0.675,37.7
+120841,Kotak Bluechip Fund - Regular - Growth,12.25,0.87,1.27,1.59,-17.86,0.325,0.3,0.55,0.125,0.42500000000000004,34.4
+119092,Axis Bluechip Fund - Regular - Growth,11.84,0.85,1.41,1.64,-27.54,0.25,0.25,0.6,0.012499999999999956,0.85,34.4
+119551,SBI Bluechip Fund - Regular Plan - Growth,12.36,0.88,0.87,1.54,-21.7,0.375,0.3625,0.225,0.23750000000000004,0.5125,33.5
+120503,ICICI Pru Bluechip Fund - Regular - Growth,11.54,0.82,0.66,1.42,-25.91,0.2,0.1875,0.1,0.5,0.75,27.7
+148569,Mirae Asset Tax Saver Fund - Regular - Growth,13.58,0.8,0.54,1.6,-22.62,0.45,0.0625,0.05,0.08750000000000002,0.625,23.6
