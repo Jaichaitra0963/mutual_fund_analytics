@@ -39,3 +39,4 @@ python day5_advanced.py
 - day3_eda.py — 8 EDA charts
 - day4_performance.py — Sharpe, Sortino, CAGR, Scorecard
 - day5_advanced.py — VaR, CVaR, Cohort Analysis, Recommender
+Updated by Jaichaitra
