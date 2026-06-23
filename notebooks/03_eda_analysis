@@ -1,0 +1,51 @@
+# Day 3 - EDA Analysis
+# Bluestock Fintech - Mutual Fund Analytics
+
+import pandas as pd
+import matplotlib
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
+import seaborn as sns
+import os
+
+os.makedirs("../reports", exist_ok=True)
+
+nav = pd.read_csv("../data/processed/clean_nav.csv")
+nav['date'] = pd.to_datetime(nav['date'])
+transactions = pd.read_csv("../data/processed/clean_transactions.csv")
+performance = pd.read_csv("../data/raw/07_scheme_performance.csv")
+sip = pd.read_csv("../data/raw/04_monthly_sip_inflows.csv")
+aum = pd.read_csv("../data/raw/03_aum_by_fund_house.csv")
+
+# Chart 1: NAV trend
+fig, ax = plt.subplots(figsize=(12,6))
+top5 = [119551, 120503, 125497, 119092, 120841]
+labels = ['SBI','ICICI','HDFC','Axis','Kotak']
+for code, label in zip(top5, labels):
+    data = nav[nav['amfi_code']==code].sort_values('date')
+    ax.plot(data['date'], data['nav'], label=label)
+ax.set_title('NAV Trend 2022-2026')
+ax.legend()
+plt.savefig('../reports/chart1_nav_trend.png')
+plt.show()
+print("Chart 1 done!")
+
+# Chart 2: Transaction type split
+fig, ax = plt.subplots(figsize=(8,8))
+tx_type = transactions['transaction_type'].value_counts()
+ax.pie(tx_type.values, labels=tx_type.index, autopct='%1.1f%%')
+ax.set_title('Transaction Type Split')
+plt.savefig('../reports/chart2_tx_split.png')
+plt.show()
+print("Chart 2 done!")
+
+# Chart 3: Age group distribution
+fig, ax = plt.subplots(figsize=(8,6))
+age = transactions['age_group'].value_counts()
+age.plot(kind='bar', ax=ax, color='steelblue')
+ax.set_title('Investor Age Group Distribution')
+plt.savefig('../reports/chart3_age_group.png')
+plt.show()
+print("Chart 3 done!")
+
+print("\nEDA Complete!")
